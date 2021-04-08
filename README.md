@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Miloslav Ježek
 - 🌱 I'm currently learning Computer Science, Python and testing
-- 👀 I'd like to find a job as a tester or a beginning programmer later
+- 👀 After mastering basics: Python GUI and game libraries
 - 📫 You can reach me on LinkedIn
 
 <!---
