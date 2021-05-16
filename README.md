@@ -1,5 +1,5 @@
-- 🌱 Currently learning Computer Science, Python and testing
-- 👀 After mastering the basics >>> Python GUI and game libraries
+- 🌱 Currently learning Python and computer science
+- 👀 After mastering the basics >>> different Python libraries
 - 📫 You can reach me on LinkedIn
 
 <!---
