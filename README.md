@@ -1,5 +1,5 @@
 - 🌱 Currently learning Python and computer science
-- 👀 Interested in GUI and game programming and AI
+- 👀 Interested in GUI and game programming
 - 📫 Feel free to reach me on LinkedIn
 
 <!---
