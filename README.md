@@ -8,7 +8,6 @@
 
 
 <!---
-- 🌱 I learned the basics with Python and jumped to C#
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
