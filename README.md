@@ -3,7 +3,7 @@
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/users/milojezek/)
 
 - 💼 Currently working as a technical sourcer
-- 💻 Learning computer science and programming in order to change my career path
+- 💻 Learning computer science and programming
 - 🌱 Started with Python but since I became interested in .NET framework I switched to C#
 
 
