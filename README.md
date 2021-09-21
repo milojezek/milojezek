@@ -4,7 +4,7 @@
 
 - 💼 Currently working as a technical sourcer
 - 💻 Learning computer science and programming
-- 🌱 Started with Python but since I became interested in .NET framework I switched to C#
+- 🌱 Started with Python but switched to C#
 
 
 <!---
