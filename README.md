@@ -4,7 +4,7 @@
 
 - 💼 Currently working as a technical sourcer
 - 💻 Learning computer science and programming
-- 🌱 Right now I focus on CS basics and C#
+- 🌱 Right now I focus on CS basics
 
 
 <!---
