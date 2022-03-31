@@ -1,7 +1,7 @@
 # Hi! I'm Miloslav 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miloslav-jezek/)
 
-- 🌱 Currently full-time (self-)student
+- 🌱 Currently studying the basics of IT and programming
   -  💻 Google IT Support program
   -  👨‍💻 Engeto Java and Linux Academy
 
