@@ -2,7 +2,7 @@
 
 - 🌱 Currently studying the basics of IT and programming
   -  💻 Google IT Support program
-  -  👨‍💻 Engeto Java and Linux Academy
+  -  👨‍💻 JetBrains Academy: Kotlin
   -  🔄 Codecademy, Codewars
 
 <!---
