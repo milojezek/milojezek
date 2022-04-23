@@ -1,8 +1,8 @@
 # Hi! I'm Miloslav 👋
 
 - 🌱 Currently studying the basics of IT and programming
-  -  💻 Google IT Support program
   -  👨‍💻 JetBrains Academy: Kotlin
+  -  💻 Google IT Support program
   -  🔄 Codewars
 
 <!---
