@@ -4,7 +4,7 @@
 - 🌱 I learn to create Android apps using <b>Kotlin</b> and <b>Android Studio</b>
 - 👨‍💻 Currently, I'm working on my pomodoro app
 - 🛠️ I'd like to collaborate on small projects, preferably Android apps
-- ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or [email](milojezek4apps@gmail.com)
+- ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or email: milojezek4apps@gmail.com
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
