@@ -2,9 +2,9 @@
 
 👨‍💻 My name is Miloslav and I'm a beginning, self-taught Android Developer
 
-🌱 I'm currently learning Android development using Kotlin
+🌱 I'm currently learning Android development using Kotlin and Androdi Studio
 
-🛠️ I'd like to collaborate on small projects, preferably (surprisingly) Android apps
+🛠️ I'd like to collaborate on small projects, preferably Android apps but I'm willing to learn other things
 
 ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or email: milojezek4apps@gmail.com
 
