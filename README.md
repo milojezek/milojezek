@@ -1,6 +1,6 @@
 # Hello👋
 
-👨‍💻 My name is Miloslav and I'm a beginning, self-taught Android Developer.
+👨‍💻 My name is Miloslav and I'm a beginning, self-taught Android Developer
 
 🌱 I'm currently learning Android development using Kotlin
 
