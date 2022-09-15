@@ -6,7 +6,7 @@
 
 🛠️ I'd like to collaborate on small projects, preferably Android apps but I'm willing to learn other things
 
-✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or email: milojezek4apps@gmail.com
+✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
