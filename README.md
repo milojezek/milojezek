@@ -2,7 +2,7 @@
 
 👨‍💻 My name is Miloslav and I'm a beginning, self-taught Android Developer
 
-🌱 I'm currently learning Jetpack Compose
+🌱 I'm currently learning Jetpack Compose and Android development + brushing up my Python
 
 🛠️ I'd like to collaborate on small projects, preferably Android apps but I'm willing to learn other things
 
