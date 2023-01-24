@@ -1,8 +1,8 @@
 # Hello👋
 
-👨‍💻 My name is Miloslav and I'm a beginning, self-taught Android Developer
+👨‍💻 My name is Miloslav and I'm a beginning, self-taught Software Developer
 
-🌱 I'm currently learning Jetpack Compose and Android development + brushing up my Python
+🌱 I gain experience using Java and Kotlin and related stuff, currently Spring
 
 🛠️ I'd like to collaborate on small projects, preferably Android apps but I'm willing to learn other things
 
