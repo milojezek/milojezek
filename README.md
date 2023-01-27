@@ -1,6 +1,6 @@
 # Hello👋
 
-👨‍💻 My name is Miloslav and I'm a beginning, self-taught Software Developer
+👨‍💻 My name is Miloslav and I'm a beginning Software Developer
 
 🌱 I gain experience using Java and Kotlin with a focus on mobile apps and backend
 
