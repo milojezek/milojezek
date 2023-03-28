@@ -7,8 +7,6 @@ _Software Developer_ | _Tech & Language Enthusiast_
 
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
-✌️ You can call me Milo / Mila / Mille / Milek
-
 <sub><sup>* Why the hedgehog? Jezek == hedghehog in my native language</sup></sub>
 
 
