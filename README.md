@@ -1,5 +1,6 @@
 # 🦔 Miloslav Jezek
 _Software Developer_ | _Tech & Language Enthusiast_
+<img align="right" width="400" height="200" src="dev_gif.gif">
 
 🌱 Currently gaining experience in backend and Android development
 
@@ -8,7 +9,6 @@ _Software Developer_ | _Tech & Language Enthusiast_
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
 <sub><sup>* Why the hedgehog? Jezek == hedghehog in my native language</sup></sub>
-
 
 ## 🔨 Skills & Tools
 
