@@ -1,6 +1,4 @@
-# Miloslav Jezek
-
-Hello, welcome to my GitHub profile 👋 I'm...
+### Hello, welcome to my GitHub profile 👋 I'm...
 
 🌱 Beginning SW developer interested in tech and innovations
 
