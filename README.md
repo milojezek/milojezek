@@ -1,12 +1,13 @@
-### Hello, welcome to my GitHub profile 👋 I'm...
+## 🦔 Miloslav Jezek
+_Software Developer_ | _Tech & Language Enthusiast_
 
-🌱 Beginning SW developer interested in tech and innovations
+🌱 Gaining experience in backend and Android development
 
-🧑‍💻 Currently focusing on backend and Android development
-
-🛠️ Open to collaboration on small side projects
+🛠️ Employed but open to collaboration on small side projects
 
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+
+<sub><sup>* Why the hedgehog? Jezek == hedghehog in my native language</sup></sub>
 
 
 ## 🔨 Skills & Tools
