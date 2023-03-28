@@ -2,6 +2,7 @@
 _Software Developer_ | _Tech & Language Enthusiast_
 <img align="right" width="400" height="200" src="dev_gif.gif">
 
+
 🌱 Currently gaining experience in backend and Android development
 
 🛠️ Employed but open to collaboration on small side projects
