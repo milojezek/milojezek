@@ -1,10 +1,12 @@
-# Hello👋
+# Miloslav Jezek
 
-👨‍💻 My name is Miloslav and I'm a beginning Software Developer
+Hello, welcome to my GitHub profile 👋 I'm...
 
-🌱 I gain experience using Java and Kotlin with a focus on mobile apps and backend
+🌱 Beginning SW developer
 
-🛠️ I'd like to collaborate on small projects, preferably Android apps but I'm willing to learn other things
+🧑‍💻 Currently focusing on backend and Android development
+
+🛠️ Open to collaboration on small side projects
 
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
