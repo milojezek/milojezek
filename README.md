@@ -1,4 +1,4 @@
-## 🦔 Miloslav Jezek
+# 🦔 Miloslav Jezek
 _Software Developer_ | _Tech & Language Enthusiast_
 
 🌱 Currently gaining experience in backend and Android development
