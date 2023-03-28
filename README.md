@@ -2,7 +2,7 @@
 
 Hello, welcome to my GitHub profile 👋 I'm...
 
-🌱 Beginning SW developer
+🌱 Beginning SW developer interested in tech and innovations
 
 🧑‍💻 Currently focusing on backend and Android development
 
