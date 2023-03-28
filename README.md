@@ -9,7 +9,7 @@
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
 
-## Skills & Tools
+## 🔨 Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,maven,postgres,git,github,idea,androidstudio,vscode&theme=light&perline=7)](https://skillicons.dev)
 
