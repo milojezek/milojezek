@@ -1,11 +1,13 @@
 ## 🦔 Miloslav Jezek
 _Software Developer_ | _Tech & Language Enthusiast_
 
-🌱 Gaining experience in backend and Android development
+🌱 Currently gaining experience in backend and Android development
 
 🛠️ Employed but open to collaboration on small side projects
 
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+
+✌️ You can call me Milo / Mila / Mille / Milek
 
 <sub><sup>* Why the hedgehog? Jezek == hedghehog in my native language</sup></sub>
 
