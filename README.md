@@ -2,6 +2,7 @@
 _Software Developer_ | _Tech & Language Enthusiast_
 <img align="right" width="400" height="200" src="dev_gif.gif">
 
+👨‍💻 Currently working as a Java Developer
 
 🌱 Gaining experience in backend and Android development
 
