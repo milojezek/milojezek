@@ -5,7 +5,7 @@ _Software Developer_ | _Tech & Language Enthusiast_
 
 🌱 Gaining experience in backend and Android development
 
-🛠️ Employed but open to collaboration on small side projects
+🛠️ Open to collaboration on small side projects
 
 ✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
