@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milek 
 _Software Developer_ | _Tech & Language Enthusiast_
-<img align="right" width="400" height="200" src="dev_gif.gif">
+<img align="right" width="300" height="200" src="dev_gif.gif">
 
 👨‍💻 Currently working as a Java Developer
 
