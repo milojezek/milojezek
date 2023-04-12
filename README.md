@@ -1,20 +1,25 @@
-# 👋 Hi, I'm Milek 
-_Software Developer_ | _Tech & Language Enthusiast_
-<img align="right" width="300" height="200" src="dev_gif.gif">
+# Hey 👋 I'm Milek
 
-👨‍💻 Currently working as a Java Developer
+👨‍💻 Software Developer who's into building web and mobile apps
 
-🌱 Gaining experience in backend and Android development
+💬 Like to be in touch with other developers and people learning to code
 
-🛠️ Open to collaboration on small side projects
+🤝 Open to collaboration on small side projects, love learning new things
 
-✉️ Available on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+✉️ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+<br/>
+<br/>
 
+## 🛠️ Tech 
+```
+💪 USING                Java, Spring Boot, Hibernate, Maven, PostgreSQL, Git/GitHub
 
+🌱 LEARNING             TypeScript, Angular + Dart&Flutter for fun
 
-## 🔨 Skills & Tools
+🐤 BASICS               Kotlin, Android Development, JavaScript, HTML/CSS, Linux CLI, Gradle
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,maven,postgres,git,github,idea,androidstudio,vscode&theme=light&perline=7)](https://skillicons.dev)
+🤔 FUTURE               ? Full-stack ? Cross-platform ? DevOps ?
+```
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
