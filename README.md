@@ -11,19 +11,14 @@
 <br/>
 
 ## 🛠️ Tech 
-```
-⚙️  BACKEND         Java, Spring Boot, Hibernate
+⚙️  BACKEND $~~~~~~~~~$                   >>>     $~~~~$ Java, Spring Boot, Hibernate + PostgreSQL or MySQL
 
-🎨  FRONTEND        HTML/CSS, TypeScript, Angular
+🎨  FRONTEND $~~~~~~$                     >>>     $~~~~$ HTML/CSS, TypeScript, Angular
 
-🗃️  DATABASE        PostgreSQL and MySQL basics
+🔨  OTHER $~~~~~~~~~~~~~~$                >>>     $~~~~$ Git/GitHub, Maven, Linux CLI basics
 
-🔨  OTHER           Git/GitHub, Maven, Linux CLI basics
 
-    + some knowledge of Kotlin and Android Development
-
-🤔  FUTURE           ? Full-stack ? Cross-platform ? DevOps ?
-```
+🤔  FUTURE $~~~~~~~~~~~~$                 >>>     $~~~~$ ? Full-stack ? Cross-platform ? DevOps ?
 
 
 <!---
