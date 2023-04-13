@@ -1,25 +1,30 @@
 # Hey 👋 I'm Milek
 
-👨‍💻 Software Developer who's into building web and mobile apps
+👨‍💻 Prague-based Software Developer who's into building web and mobile apps
 
-💬 Like to be in touch with other developers and people learning to code
+🌱 Gaining experience in full-stack development and learning Dart & Flutter for fun
 
-🤝 Open to collaboration on small side projects, love learning new things
+💪 Open to collaboration on small side projects, willing to learn new things
 
-✉️ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+✉️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 <br/>
 <br/>
 
 ## 🛠️ Tech 
 ```
-💪 USING                Java, Spring Boot, Hibernate, Maven, PostgreSQL, Git/GitHub
+⚙️  BACKEND         Java, Spring Boot, Hibernate
 
-🌱 LEARNING             TypeScript, Angular + Dart&Flutter for fun
+🎨  FRONTEND        HTML/CSS, TypeScript, Angular
 
-🐤 BASICS               Kotlin, Android Development, JavaScript, HTML/CSS, Linux CLI, Gradle
+🗃️  DATABASE        PostgreSQL and MySQL basics
 
-🤔 FUTURE               ? Full-stack ? Cross-platform ? DevOps ?
+🔨  OTHER           Git/GitHub, Maven, Linux CLI basics
+
+    + some knowledge of Kotlin and Android Development
+
+🤔  FUTURE           ? Full-stack ? Cross-platform ? DevOps ?
 ```
+
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
