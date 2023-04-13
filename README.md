@@ -11,14 +11,14 @@
 <br/>
 
 ## 🛠️ Tech 
-⚙️  BACKEND $~~~~~~~~~$                   >>>     $~~~~$ Java, Spring Boot, Hibernate + PostgreSQL or MySQL
+⚙️ $~$ BACKEND $~~~~~~~~~$                   >>>     $~~~~$ Java, Spring Boot, Hibernate + PostgreSQL or MySQL
 
-🎨  FRONTEND $~~~~~~$                     >>>     $~~~~$ HTML/CSS, TypeScript, Angular
+🎨 $~$ FRONTEND $~~~~~~$                     >>>     $~~~~$ HTML/CSS, TypeScript, Angular
 
-🔨  OTHER $~~~~~~~~~~~~~~$                >>>     $~~~~$ Git/GitHub, Maven, Linux CLI basics
+📱 $~~~$ MOBILE $~~~~~~~~~~~~$               >>>      $~~~~$ Kotlin, Android UI, some Jetpack libraries, Retrofit, Moshi
 
+🔨 $~$ OTHER $~~~~~~~~~~~~~~$                >>>     $~~~~$ Git/GitHub, Maven, Linux CLI basics, VS Code, IntelliJ
 
-🤔  FUTURE $~~~~~~~~~~~~$                 >>>     $~~~~$ ? Full-stack ? Cross-platform ? DevOps ?
 
 
 <!---
