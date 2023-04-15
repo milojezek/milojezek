@@ -11,9 +11,10 @@
 <br/>
 
 ## 🛠️ Tech 
-| ⚙️ BACKEND  | 🎨 FRONTEND | 📱 MOBILE | 🔨 OTHER |
+| ⚙️ BACKEND  | 🎨 FRONTEND | 📱 MOBILE & CROSS-PLATFORM | 🔨 OTHER |
 | ------------- | ------------- | ------------- | ------------- | 
-| Java, Kotlin, Spring Boot, Hibernate, PostgreSQL, MySQL  | HTML/CSS, learning TypeScript, Angular  | Android basics (some Jetpack libraries, Retrofit, Moshi...), trying Dart & Flutter | Git/GitHub, Maven, Linux CLI basics, VS Code, IntelliJ | 
+| **Java**, Kotlin, Maven, **Spring Boot**, **Hibernate**, **PostgreSQL**, MySQL  | HTML/CSS, _learning TypeScript, Angular_  | Android basics (some Jetpack libraries, Retrofit, Moshi...), _trying Dart & Flutter_ | Git/GitHub, VS Code, IntelliJ, Linux CLI basics | 
+
 
 
 <!---
