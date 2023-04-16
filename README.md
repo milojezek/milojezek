@@ -2,7 +2,7 @@
 
 👨‍💻 Prague-based Software Developer who's into building web and mobile apps
 
-🌱 Gaining experience in full-stack development and learning Dart & Flutter for fun
+🌱 Gaining experience in web full-stack and exploring cross-platform development
 
 💪 Open to collaboration on small side projects, willing to learn new things
 
@@ -19,7 +19,7 @@
       └─────── HTML/CSS, learning TypeScript and Angular
   
 📱 MOBILE
-      └─────── Android basics, exploring Flutter
+      └─────── Android basics, exploring Dart & Flutter
 ```
 
 <!---
