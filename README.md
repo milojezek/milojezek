@@ -11,16 +11,14 @@
 <br/>
 
 ## 🛠️ Tech 
-```
-⚙️ BACKEND
-      └─────── Java, Maven, Spring Boot, PostgreSQL/MySQL
+⚙️<br/>
+Java, Spring Boot, PostgreSQL/MySQL
   
-🎨 FRONTEND
-      └─────── HTML/CSS, learning TypeScript and Angular
-  
-📱 MOBILE
-      └─────── Android basics, exploring Dart & Flutter
-```
+🎨<br/>
+HTML, CSS, vanilla JavaScript, TypeScript
+ 
+📱<br/>
+Android basics, exploring Dart & Flutter
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
