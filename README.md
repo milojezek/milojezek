@@ -1,4 +1,4 @@
-👋 Hey there, my name is Miloslav
+# 👋 Hey there
 
 🧑‍💻 I'm a **Prague-based software developer** who's into making **web and mobile apps**
 
