@@ -1,4 +1,4 @@
-# Hey 👋 I'm Milek
+# Hey 👋
 
 👨‍💻 Prague-based Software Developer who's into building web and mobile apps
 
