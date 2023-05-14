@@ -1,12 +1,13 @@
-# Hey 👋
+👋 Hey there, my name is Miloslav
 
-👨‍💻 Prague-based Software Developer who's into building web and mobile apps
+🧑‍💻 I'm a **Prague-based software developer** who's into making **web and mobile apps**
 
-🌱 Gaining experience in web development + interested in Android and Flutter
-
-💪 Open to collaboration on small side projects, willing to learn new things
+🤝 Open to collaboration on small side projects, and willing to learn new things
 
 ✉️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+
+
+
 
 
 <!---
