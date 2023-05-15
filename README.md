@@ -1,6 +1,4 @@
-# 👋 Hey there
-
-🧑‍💻 I'm a **Prague-based software developer** who's into making **web and mobile apps**
+👋 Hey, I'm a **Prague-based software developer** who's into making **web and mobile apps**
 
 🤝 Open to collaboration on small side projects, and willing to learn new things
 
