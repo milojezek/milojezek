@@ -4,7 +4,6 @@
 <br/>
 
 - 👋 Hey, I'm a **Prague-based software developer** who's into making apps
-- 🛠️ Currently, my preferred stack is:
 - 🤝 Open to collaboration on small side projects, and willing to learn new things
 - ✉️ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
