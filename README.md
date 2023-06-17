@@ -1,10 +1,7 @@
 # 👋 Hey, I'm Miloslav
 - I'm a **Prague-based software developer** who's into building web and mobile apps
 - Currently focusing on gaining experience as much as possible: work + self-study
-- I'm open to collaboration on small side projects; my main interests are:
-  - _Anything related to software and hardware_, their use and development
-  - _Languages_, pref. Scandinavian, Polish + I'll probably start with German
-  - _Volleyball_, which I think is a great team sport (just an amateur player)
+- I'm open to collaboration on small side projects
 - You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
 </br>
