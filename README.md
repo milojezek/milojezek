@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Miloslav
 - I'm a **Prague-based software developer** who's into building web and mobile apps
-- Currently focusing on gaining experience as much as possible: work + self-study
+- Currently focusing on gaining experience as much as possible (work + self-study)
 - I'm open to collaboration on small side projects
 - You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
 
