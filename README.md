@@ -15,7 +15,7 @@ I'm a Prague-based software developer who's into building web and mobile apps. I
  
 🤝 Open to collaboration on small side-projects 
 
-✉️ Feel free to reach me out on [LinkedIn](https://linkedin.com/in/miloslav-jezek/)
+✉️ Feel free to reach me out on [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or via [e-mail](milojezek4apps@gmail.com) 
 
 </br>
 
