@@ -1,12 +1,26 @@
-# 👋 Hey, I'm Miloslav
-- I'm a **Prague-based software developer** who's into building web and mobile apps
-- Currently focusing on gaining experience as much as possible (work + self-study)
-- I'm open to collaboration on small side projects
-- You can reach out to me on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/) or via milojezek4apps@gmail.com
+<h1 align="center"> 👋 Hey, I'm Miloslav </h1>
+
+I'm a Prague-based software developer who's into building web and mobile apps. I used to work in recruitment but I left my HR career to fully focus on switching to engineering. I succeeded and I'm currently gaining experience mainly in backend and Android development. Besides development itself I like to engage in various activities, especially in the community of beginning developers.
+
+</br>
+
+## 👨‍💻 About me
+- Currently working as a Junior Software Developer
+- Using primarily Java at work and focus on backend
+- Also learning Kotlin and Android development
+- My main interests are:
+  - Anything related to SW and HW
+  - Languages: Polish, Scandinavian, German
+  - Volleyball, any variation at the amateur level
+ 
+🤝 Open to collaboration on small side-projects 
+
+✉️ Feel free to reach me out on [LinkedIn](https://linkedin.com/in/miloslav-jezek/)
 
 </br>
 
 ## 🛠️ Technologies and tools
+
 💪 **Using actively now**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milojezek&show_icons=true&locale=en&layout=compact" alt="milojezek" /></p>
