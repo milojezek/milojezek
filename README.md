@@ -8,10 +8,6 @@ I'm a Prague-based software developer who's into building web and mobile apps. I
 - Currently working as a Junior Software Developer
 - Using primarily Java at work and focus on backend
 - Also learning Kotlin and Android development
-- My main interests are:
-  - Anything related to SW and HW
-  - Languages: Polish, Scandinavian, German
-  - Volleyball, any variation at the amateur level
  
 🤝 Open to collaboration on small side-projects 
 
