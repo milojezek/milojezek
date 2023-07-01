@@ -1,23 +1,16 @@
-<h1 align="center"> 👋 Hey, I'm Miloslav </h1>
+## 👋 Hey there, I'm Miloslav, or just Milo/Milek
 
-I'm a Prague-based software developer who's into building web and mobile apps. I used to work in recruitment but I left my HR career to fully focus on switching to engineering. I succeeded and I'm currently gaining experience mainly in backend and Android development. Besides development itself I like to engage in various activities, especially in the community of beginning developers.
-
-</br>
-
-## 👨‍💻 About me
-- Currently working as a Junior Software Developer
-- Using primarily Java at work and focus on backend
-- Also learning Kotlin and Android development
- 
-🤝 Open to collaboration on small side-projects 
-
-✉️ Feel free to reach me out on [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or via [e-mail](milojezek4apps@gmail.com) 
+- 👨‍💻 I'm a Prague-based software developer, and I'm into building web and mobile apps
+- 🌱 Currently gaining experience mainly in backend and Android development
+- 👀 Also interested in cloud computing and related stuff
+- 🤝 Open to collaboration on small side-projects
+- ✉ Feel free to reach out via [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or [e-mail](milojezek4apps@gmail.com)
 
 </br>
 
 ## 🛠️ Technologies and tools
 
-💪 **Using actively now**
+##### 💪 Using actively now
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -30,9 +23,7 @@ I'm a Prague-based software developer who's into building web and mobile apps. I
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</br>
-
-🤏 **Used a bit in the past (hobby/project/course)**
+##### 🤏 Used a bit in the past (hobby/project/course)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
