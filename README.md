@@ -3,7 +3,7 @@
 - Currently focus on gaining experience mainly in **backend (Java/Kotlin)** and **Android development**.
 - Would like to learn about DevOps, cloud computing and related things as well.
 - Besides tech stuff interested in foreign languages (Polish, Scandinavian, German) and playing volleyball.
-- Open to collaboration on small side-projects; Feel free to reach out via [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or [e-mail](milojezek4apps@gmail.com).
+- Open to collaboration on small side-projects; Feel free to reach out via [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
 ## 🛠️ Technologies and tools
 - 💪 **Using** or 🌱 **Learning** actively
