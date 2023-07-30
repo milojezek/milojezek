@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Miloslav (or just Milo/Milek), **Prague-based software developer**.
-- 👀 Currently focusing on gaining experience mainly in **backend (Java/Kotlin)** and **Android development**.
+- 👀 Currently focusing mainly on **backend (Java/Kotlin)** and **Android development**.
 - 💭 Would like to learn about DevOps, cloud computing and related things as well.
 - 🤝 Open to collaboration on small side-projects; Feel free to reach out via [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
