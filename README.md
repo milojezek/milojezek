@@ -12,16 +12,12 @@ My name is Miloslav but you can call me Milo or Milek. I'm a Prague-based softwa
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
 ## 🛠️ Languages and tools
-- ⚙️ The language of my choice would be **Kotlin** but **Java** is also ok when needed. I have basic knowledge of **Spring Boot** and **Ktor** and the databases I've had a chance to use are **PostgreSQL** and **MongoDB**. In the past, I learned Python and C# a little bit but I've never used these languages beyond the scope of beginner courses.
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,ktor,postgres,mongodb,maven,gradle,html,css,bootstrap,react,git,github,androidstudio,vscode&theme=dark&perline=8)](https://skillicons.dev)
   
-- 🎨 When it comes to frontend stuff, I've used **HTML**, **CSS** and **Bootsrap** occasionally and currently, I'm learning **React** and **React Native**. Besides that, I have some experience creating UIs with **Jetpack Compose** for **Android** and using some other Jetpack libraries.
 
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight" />
-</p>
-
+![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
 
 
 <!---
