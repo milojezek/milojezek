@@ -12,9 +12,23 @@ My name is Miloslav but you can call me Milo or Milek. I'm a Prague-based softwa
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
 ## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,ktor,postgres,mongodb,maven,gradle,html,css,bootstrap,js,react,git,github,androidstudio,vscode,figma&theme=dark&perline=8)](https://skillicons.dev)
+💪 Using actively 
   
+[![My Skills](https://skillicons.dev/icons?i=kotlin,gradle,mongodb,js,git,github,androidstudio,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
+<br>
+
+🌱 Learning
+  
+[![My Skills](https://skillicons.dev/icons?i=ktor,react&theme=dark&perline=8)](https://skillicons.dev)
+
+<br>
+
+🤏 Use occasionally
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,maven,html,css,figma&theme=dark&perline=8)](https://skillicons.dev)
+  
+<br>
 <br>
 
 ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
