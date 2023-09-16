@@ -3,11 +3,11 @@ My name is Miloslav but you can call me Milo or Milek. I'm a Prague-based softwa
 
 - 👨‍💻 Working in FPT where contributing to both frontend and backend for building web and mobile apps
 
-- 🌱 Currently, focusing on learning and using React and React Native because of projects I'm involved in
+- 🌱 Currently, I'm focusing on learning and using React and React Native because of projects I'm involved in
 
-- 💭 Would like to learn about DevOps, cloud computing and related stuff in the near future
+- 💭 Would like to learn about DevOps, cloud computing and related stuff
 
-- ⚡ Super interested in foreign languages, I enjoy playing volleyball and travelling
+- ⚡ Super interested in foreign languages, and I enjoy playing volleyball and travelling
   
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
