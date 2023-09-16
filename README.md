@@ -11,7 +11,7 @@ My name is Miloslav but you can call me Milo or Milek. I'm a Prague-based softwa
   
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
 
-## 🛠️ Languages and tools
+## 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,ktor,postgres,mongodb,maven,gradle,html,css,bootstrap,react,git,github,androidstudio,vscode&theme=dark&perline=8)](https://skillicons.dev)
   
 
