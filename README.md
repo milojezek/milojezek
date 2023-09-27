@@ -1,22 +1,14 @@
-- 👋 Hey, my name is Miloslav but you can call me Milo or Milek
 
-- 🏙️ I'm a software developer living and working in Prague
 
-- 🛠️ Contributing to both frontend and backend for building web and mobile apps
-
+- 👋 Hey there, my name is Miloslav but you can call me Milo or Milek
+- 👨‍💻 Contributing to both frontend and backend for building web and mobile apps
 - 💭 Would like to learn about DevOps, cloud computing and related stuff
-
-- ⚡ Super interested in foreign languages, and I enjoy playing volleyball and travelling
-  
-- 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
+- ⚡ Super interested in foreign languages, and enjoy playing volleyball and travelling
+- 🤝 Might be open to collaboration on a small side-project: [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com
 
 <br>
 
-|     |     |
-| --- | --- |
-| 💪 Using actively   | Java, Kotlin, JavaScript, Git, GitHub, Android Studio, IntelliJ, VS Code  | 
-| 🌱 Learning         | React.js, React Native (work projects), and Ktor (personal study project) | 
-| 🤏 Using/Used a bit | Spring Boot, MongoDB, PostgreSQL, Gradle, Maven, HTML, CSS, Figma         |
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,spring,js,react,html,css,postgres,mongodb,maven,gradle,git,github,androidstudio,vscode,figma&theme=dark&perline=20)](https://skillicons.dev)
 
 <br>
 
