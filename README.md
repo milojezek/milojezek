@@ -9,16 +9,20 @@
 - ⚡ Super interested in foreign languages, and I enjoy playing volleyball and travelling
   
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
-  
-<br>
 
-![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
+<br>
 
 |     |     |
 | --- | --- |
 | 💪 Using actively   | Java, Kotlin, JavaScript, Git, GitHub, Android Studio, IntelliJ, VS Code  | 
 | 🌱 Learning         | React.js, React Native (work projects), and Ktor (personal study project) | 
 | 🤏 Using/Used a bit | Spring Boot, MongoDB, PostgreSQL, Gradle, Maven, HTML, CSS, Figma         |
+
+<br>
+
+![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
+
+
  
 
 <!---
