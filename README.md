@@ -1,38 +1,25 @@
-# 👋 Hello
-My name is Miloslav but you can call me Milo or Milek. I'm a Prague-based software developer from Czechia.
+- 👋 Hey, my name is Miloslav but you can call me Milo or Milek
 
-- 👨‍💻 Working in FPT where contributing to both frontend and backend for building web and mobile apps
+- 🏙️ I'm a software developer living and working in Prague
 
-- 🌱 Currently, I'm focusing on learning and using React and React Native because of projects I'm involved in
+- 🛠️ Contributing to both frontend and backend for building web and mobile apps
 
 - 💭 Would like to learn about DevOps, cloud computing and related stuff
 
 - ⚡ Super interested in foreign languages, and I enjoy playing volleyball and travelling
   
 - 🤝 Might be open to collaboration on small side-projects >>> [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com.
-
-## 🛠️ Languages and Tools
-💪 Using actively 
   
-[![My Skills](https://skillicons.dev/icons?i=kotlin,gradle,mongodb,js,git,github,androidstudio,vscode&theme=dark&perline=8)](https://skillicons.dev)
-
-<br>
-
-🌱 Learning
-  
-[![My Skills](https://skillicons.dev/icons?i=ktor,react&theme=dark&perline=8)](https://skillicons.dev)
-
-<br>
-
-🤏 Use occasionally
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,maven,html,css,figma&theme=dark&perline=8)](https://skillicons.dev)
-  
-<br>
 <br>
 
 ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
 
+|     |     |
+| --- | --- |
+| 💪 Using actively   | Java, Kotlin, JavaScript, Git, GitHub, Android Studio, IntelliJ, VS Code  | 
+| 🌱 Learning         | React.js, React Native (work projects), and Ktor (personal study project) | 
+| 🤏 Using/Used a bit | Spring Boot, MongoDB, PostgreSQL, Gradle, Maven, HTML, CSS, Figma         |
+ 
 
 <!---
 milojezek/milojezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
