@@ -1,9 +1,8 @@
-
-
-- 👋 Hey there, my name is Miloslav but you can call me Milo or Milek
+- 👋 Hey there, my name is Miloslav but you can call me Milo, Mille or Milek
 - 👨‍💻 Contributing to both frontend and backend for building web and mobile apps
+- 🌱 Currently focusing on learning React and React Native for work projects
 - 💭 Would like to learn about DevOps, cloud computing and related stuff
-- ⚡ Super interested in foreign languages, and enjoy playing volleyball and travelling
+- ⚡ Super interested in foreign languages, enjoy playing volleyball and travelling
 - 🤝 Might be open to collaboration on a small side-project: [LinkedIn](https://linkedin.com/in/miloslav-jezek/) or milojezek4apps@gmail.com
 
 <br>
