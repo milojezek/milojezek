@@ -1,4 +1,3 @@
-### 👋 Hey, I'm a software developer from Prague, Czechia
 - 🌱 Currently learning full-stack JavaScript, React and React Native for building web and mobile apps 
 - 👀 Interested in anything that makes development smoother and want to learn about DevOps and cloud
 - ⚡ Besides that, I'm into foreign languages and new technologies, I enjoy playing volleyball and travelling
