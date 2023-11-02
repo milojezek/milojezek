@@ -3,7 +3,7 @@ Hey 👋 I'm Miloslav (or just Milo), a Prague-based software developer.
 ### About me
 - 💼 Building apps at work (frontend, mobile cross-multiplatform)
 - 🌱 Using and learning full-stack JavaScript, React and React Native
-- ⚡ Into foreign languages, new technologies productivity and travelling
+- ⚡ Into foreign languages, new technologies, productivity and travelling
 - 📫 You can reach out to me via [LinkedIn](https://linkedin.com/in/miloslav-jezek/) and milojezek4apps@gmail.com
 
 ### Technologies
