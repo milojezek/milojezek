@@ -1,4 +1,4 @@
-Hey 👋 I'm Miloslav (or just Milo), a Prague-based software developer. 
+Hey 👋 I'm Miloslav (or just Milo), a software developer from Czechia. My passion is solving problems using programming languages and various tools. I started developing with Java (backend, Spring Boot) and Kotlin (Android). Later, due to work projects, I switched to using JavaScript. Currently, I focus on using and learning full-stack JavaScript and frameworks React and React Native. I'm also interested in everything that makes development smoother so I'd like to learn more about DevOps. Besides that, I'm an active member and moderator in the Junior Guru club which is a Czechoslovakian community for both beginning and experienced developers.
 
 ### About me
 - 💼 Building apps at work (frontend, mobile cross-multiplatform)
