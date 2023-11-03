@@ -41,7 +41,7 @@ Hey 👋 I'm Miloslav (or just Milo), a software developer from Czechia. My pass
 </details>
 
 <details>
-  <summary>My most used languages in my repos</summary>
+  <summary>Most used languages in my repos</summary>
 
   ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&theme=tokyonight)
 </details>
