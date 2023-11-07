@@ -1,4 +1,4 @@
-Hey 👋 I'm Miloslav (or just Milo), a software developer from Czechia. I started developing with Java (backend, Spring Boot) and Kotlin (Android). Later, due to work projects, I switched to using JavaScript. I'm also interested in everything that makes development smoother so I'd like to learn more about DevOps as well. Besides that, I'm an active member and moderator in the Junior Guru club which is a Czechoslovakian community for both beginning and experienced developers.
+Hey 👋 I'm Miloslav (or just Milo), a software developer from Czechia. I started developing with Java (backend, Spring Boot) and Kotlin (Android). Later, I switched to using JavaScript. I'm also interested in everything that makes development smoother so I'd like to learn more about DevOps as well. Besides that, I'm an active member and moderator in the Junior Guru club which is a Czechoslovakian community for both beginning and experienced developers.
 
 ### About me
 - 💼 Building apps at work (frontend, mobile cross-multiplatform)
