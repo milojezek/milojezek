@@ -1,12 +1,7 @@
-👋 My name is Miloslav, but I also go by Milo, Mille, or Milek
-
-🌱 I'm learning React, React Native and how to use JS on the backend
-
-⚡ My main interests are SW development, travelling, and languages
-
-🛠️ Besides my work projects, I'm currently working on Chickenbook
-
-</br>
+- 👋 My name is Miloslav, but I also go by Milo, Mille, or Milek
+- 🌱 I'm learning React, React Native and how to use JS on the backend
+- ⚡ My main interests are SW development, travelling, and languages
+- 🛠️ Besides my work projects, I'm currently working on Chickenbook
 
 ### Technologies
 <details>
