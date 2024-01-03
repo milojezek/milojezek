@@ -12,7 +12,6 @@ I'm a software developer from Czechia working at FPT Czech in Prague. Besides wo
 <table><tr><td valign="top" width="50%">
 
 ### <div align="left">👇 Use actively</div>
-</br>
 <div align="left">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
@@ -31,7 +30,6 @@ I'm a software developer from Czechia working at FPT Czech in Prague. Besides wo
 </td><td valign="top" width="50%">
 
 ### <div align="left">👇 Little experience / Used in the past</div>
-</br>
 <div align="left">  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
