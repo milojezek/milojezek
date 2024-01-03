@@ -43,11 +43,36 @@ I'm a software developer from Czechia working at FPT Czech in Prague. Besides wo
 
 </td></tr></table>  
 
-<div align="center">
+
+
+<!--
+<div width="100%">
+  
+</div>
+<table><tr><td valign="center" width="50%">
+  <img src="https://media1.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=ecf05e478cslzqr789liqpjm7k9jzvf2o988ejzlpw8w715u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</td><td valign="center" width="50%">
+<div width="100%">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&layout=compact)
   
 </div>
+</td></tr></table>
+
+-->
+
+
+
+<table align="center"><tr><td valign="center" width="50%">
+<div align="center"> 
+  <img src="https://media1.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=ecf05e478cslzqr789liqpjm7k9jzvf2o988ejzlpw8w715u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+</td><td valign="center" width="50%">
+<div align="center">  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&layout=compact)
+</div>
+</td></tr></table>  
 
 
 
