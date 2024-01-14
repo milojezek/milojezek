@@ -1,11 +1,11 @@
 ## 👋 Hello, I'm Milo
-I'm a software developer from Czechia working at FPT Czech in Prague. Besides work, I do side projects, try new technologies, and learn as much as possible. My current job is mainly about working on the front end. However, I lean toward backend development. I focus on it in my free time and want to grow in this area. I'm also interested in IoT and planning to dive into electronic projects with Arduino soon.
+My current job is mainly about working on the front end. However, I lean toward backend development. I focus on it in my free time and want to grow in this area. I'm also interested in IoT and cloud technologies.
 
 ## ⚡ A few quick facts
-- 🔭 Currently working on internal tool (PWA) using JavaScript, React, HTML and CSS
+- 🔭 Currently working on an internal tool (PWA) using JavaScript, React, HTML and CSS
 - 🌱 Learning back-end development (Python, JS, later Go) with boot.dev
 - 🐣 Besides my work projects, I'm currently working on Chickenbook
-- 💬 I'm active within Junior Guru, Czechoslovak developer community
+- 💬 I'm active within Junior Guru, a Czechoslovak developer community
 - 📚 I also read a lot, love travelling and learning foreign languages
 
 ## 🛠️ My skills
