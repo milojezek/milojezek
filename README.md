@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Milo
-My current job is mainly about working on the front end. However, I lean toward backend development. I focus on it in my free time and want to grow in this area. I'm also interested in IoT and cloud technologies.
+I'm a Prague-based software developer into building apps. My job is mainly about the frontend but I lean towards backend development. Therefore my current priority is to grow in automation and backend development. I'm also interested in IoT and cloud technologies.
 
 ## ⚡ A few quick facts
 - 🔭 Currently working on an internal tool (PWA) using JavaScript and React
