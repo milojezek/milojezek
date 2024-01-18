@@ -2,7 +2,7 @@
 My current job is mainly about working on the front end. However, I lean toward backend development. I focus on it in my free time and want to grow in this area. I'm also interested in IoT and cloud technologies.
 
 ## ⚡ A few quick facts
-- 🔭 Currently working on an internal tool (PWA) using JavaScript, React, HTML and CSS
+- 🔭 Currently working on an internal tool (PWA) using JavaScript and React
 - 🌱 Learning back-end development (Python, JS, later Go) with [Boot.dev](https://www.boot.dev/)
 - 🐣 Besides my work projects, I'm currently working on [Chickenbook](https://github.com/milojezek/chickenbook)
 - 💬 I'm active within Junior Guru, a Czechoslovak developer community
