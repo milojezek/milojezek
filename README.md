@@ -1,10 +1,9 @@
 ## 👋 Hello, I'm Milo
-I'm a Prague-based software developer into building apps and automation. I'm actively using mainly JavaScript and Python.
+I'm a Prague-based software developer into building apps and automation.
 
 ## ⚡ A few quick facts
 - 🔭 Currently working on an internal app (PWA) using JavaScript and React
 - 🌱 Learning back-end development (Python, JS, later Go) with [Boot.dev](https://www.boot.dev/)
-- 🐣 Besides my work projects, I'm currently working on [Chickenbook](https://github.com/milojezek/chickenbook)
 - 💬 I'm active within Junior Guru, a Czechoslovak developer community
 - 📚 I also read a lot, love travelling and learning foreign languages
 
