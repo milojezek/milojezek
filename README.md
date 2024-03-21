@@ -2,7 +2,7 @@
 I'm a Prague-based software developer into building apps and automation.
 
 ## ⚡ A few quick facts
-- 🔭 Currently working on internal apps using JS/TS and React
+- 🔭 Currently working on internal apps with full-stack JS/TS
 - 🌱 Learning back-end development (Python, JS, later Go) with [Boot.dev](https://www.boot.dev/)
 - 💬 I'm active within Junior Guru, a Czechoslovak developer community
 - 📚 I also read a lot, love travelling and learning foreign languages
