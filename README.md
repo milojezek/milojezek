@@ -1,11 +1,9 @@
 ## 👋 Hello, I'm Milo
-I'm a Prague-based software developer into building apps and automation.
-
-## ⚡ A few quick facts
-- 🔭 Currently working on internal apps with full-stack JS/TS
-- 🌱 Learning back-end development (Python, JS, later Go) with [Boot.dev](https://www.boot.dev/)
+I'm a Prague-based software developer who is into building apps and automation.
+- 🛠️ Currently working on internal apps with full-stack JS/TS in FPT Czech
+- 💼 And acting as a product owner on one of the projects
+- 🌱 Learning back-end development and DevOps-related stuff
 - 💬 I'm active within Junior Guru, a Czechoslovak developer community
-- 📚 I also read a lot, love travelling and learning foreign languages
 
 ## 🛠️ My skills
 <table><tr><td valign="top" width="50%">
@@ -21,6 +19,7 @@ I'm a Prague-based software developer into building apps and automation.
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="ESLint">
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
@@ -38,7 +37,6 @@ I'm a Prague-based software developer into building apps and automation.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" alt="Android Studio">
-<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js">
 </div>
 
 </td></tr></table>  
