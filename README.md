@@ -1,7 +1,7 @@
 # Hey 👋 It's Milo here 😉
 - 🏙️ Prague-based software developer with an overlap in project team management
 - 🛠️ Currently building internal apps with full-stack JS/TS at work
-- 🌱 Getting into DevOps and cloud infra with [ZtM](https://zerotomastery.io/) and [Learn to Cloud](https://learntocloud.guide/)
+- 🌱 Learning and gaining experience mainly in the backend development
 - 💬 Active within Junior Guru, a Czechoslovak developer community
 
 ## 🔨 Tech I currently use the most
