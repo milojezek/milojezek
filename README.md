@@ -1,6 +1,6 @@
 # Hey 👋 It's Milo here 😉
-- 🏙️ Prague-based software developer with an overlap in project team management
-- 🛠️ Currently building internal apps with full-stack JS/TS at work
+- 🏙️ Prague-based software developer
+- 🛠️ building apps with full-stack JS/TS
 - 💬 Active within Junior Guru, a Czechoslovak developer community
 
 ## 🔨 Tech I currently use the most
