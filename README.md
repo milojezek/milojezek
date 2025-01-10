@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Milo
 I'm a digital craftsman (software developer) based in Prague. So far, I've worked mainly on a full-stack JS/TS web app and a headless WP website with Vue.js from scratch. In my free time, I'm slowly learning the secrets of backend development, which is the area I want to focus on.
 
-🌱 Currently refreshing my knowledge of Python, following the curriculum of Boot.dev</br>
+🌱 Currently refreshing my knowledge of Python, following the curriculum of [Boot.dev](https://www.boot.dev/)</br>
 🤖 Also learning about generative AI and LLM apps</br>
-💬 Active within Junior Guru, a Czechoslovak developer community</br>
+💬 Active within [Junior Guru](https://junior.guru/), a Czechoslovak developer community</br>
 🏐 When AFK, I travel, play volleyball, learn languages...
 
 ## 🔨 Tech stack
