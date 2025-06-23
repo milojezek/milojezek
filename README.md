@@ -1,16 +1,12 @@
-# 👋 Hey, I'm Milo
+# Hey, I'm Milo
 
-I'm a digital craftsman (software developer) based in Prague. So far, I've worked mainly on a full-stack JS/TS web app and a headless WP website with Vue.js from scratch. In my free time, I brush up on my software engineering skills. Among other things, I'm active within [Junior Guru](https://junior.guru/), a Czechoslovak developer community. When AFK, I travel, play volleyball and learn foreign languages.
+- 🏠 Prague-based full-stack developer
+- 🛠️ My go-to languages are JavaScript and TypeScript...
+- 📚 ... used with React/Vue, Node.js + Express.js + PostgreSQL
+- 🌱 Learning Go in my free time and expanding my engineering knowledge
+- 👋 Moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
 
-## 🛠️ Skills & Tech Stack
-- 🌐 Programming Languages: JavaScript, TypeScript
-- 📚 Frameworks & Libraries: React.js, Vue.js, Node.js, Express.js
-- 🛠️ Tools: Git, GitHub, Azure DevOps, Azure, VS Code
-- ⚡ Other: project backlog management, Scrum
   
-</br>
-
-- 🌱 Learning Go
 
 <!-- 🌟 Projects -->
 
