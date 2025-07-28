@@ -3,8 +3,9 @@
 - 🏠 Prague-based full-stack developer
 - 🛠️ My go-to languages are JavaScript and TypeScript...
 - 📚 ... used with React/Vue, Node.js + Express.js + PostgreSQL
-- 🌱 Learning Go in my free time and expanding my engineering knowledge
+- 🌱 Growing within full-stack development and product engineering
 - 👋 Moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
+- 👀 I'd love to learn Go in the future
 
   
 
