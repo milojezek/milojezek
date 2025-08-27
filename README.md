@@ -2,9 +2,9 @@
 
 - 🏠 I'm a Prague-based developer, but I enjoy the flexibility of working from anywhere
 - 🛠️ Currently working at FPT Czech as a full-stack developer (JavaScript/TypeScript, React, Vue, Node...)
-- 🐣 Volunteer as a moderator in <a href="https://junior.guru/" target="_blank">Junior Guru</a>, a Czechoslovak developer community
+- 🐣 Volunteer as a moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
 - 🌱 In my free time, I learn the Go programming language, travel, learn languages, and play volleyball
-- 🔗 Wanna chat? Hit me up on <a href="https://www.linkedin.com/in/miloslav-jezek/" target="_blank">LinkedIn</a>
+- 🔗 Wanna chat? Hit me up on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/)
   
 
 <!-- 🌟 Projects -->
