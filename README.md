@@ -1,10 +1,10 @@
-# Hey, I'm Milo
+# 👋 Hey, I'm Milo
 
-- 🏠 Prague-based full-stack developer, but I enjoy the flexibility of working from anywhere
-- 🛠️ My go-to languages are JavaScript and TypeScript used with React/Vue, Node.js + Express.js + PostgreSQL
-- 🌱 Learning the Go programming language and expanding my knowledge and skills in software development
-- 👋 Moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
-
+- 🏠 I'm a Prague-based developer, but I enjoy the flexibility of working from anywhere
+- 🛠️ Currently working at FPT Czech as a full-stack developer (JavaScript/TypeScript, React, Vue, Node...)
+- 🐣 Volunteer as a moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
+- 🌱 In my free time, I learn the Go programming language, travel, learn languages, and play volleyball
+- 🔗 Wanna chat? Hit me up on [LinkedIn](https://www.linkedin.com/in/miloslav-jezek/)
   
 
 <!-- 🌟 Projects -->
