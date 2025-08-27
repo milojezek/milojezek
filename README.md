@@ -1,11 +1,9 @@
 # Hey, I'm Milo
 
-- 🏠 Prague-based full-stack developer
-- 🛠️ My go-to languages are JavaScript and TypeScript...
-- 📚 ... used with React/Vue, Node.js + Express.js + PostgreSQL
-- 🌱 Growing within full-stack development and product engineering
+- 🏠 Prague-based full-stack developer, but I enjoy the flexibility of working from anywhere
+- 🛠️ My go-to languages are JavaScript and TypeScript used with React/Vue, Node.js + Express.js + PostgreSQL
+- 🌱 Learning the Go programming language and expanding my knowledge and skills in software development
 - 👋 Moderator in [Junior Guru](https://junior.guru/), a Czechoslovak developer community
-- 👀 I'd love to learn Go in the future
 
   
 
