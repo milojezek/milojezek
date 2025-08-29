@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Milo
 
-- 🏠 I'm a Prague-based developer, but I enjoy the flexibility of working from anywhere
-- 🛠️ Currently working at FPT Czech as a full-stack developer (JavaScript/TypeScript, React, Vue, Node...)
-- 🌱 In my free time, I learn the Go programming language, travel, learn languages, and play volleyball
+🏠 I'm a Prague-based developer, but I enjoy the flexibility of working from anywhere
+
+🛠️ Currently working at FPT Czech as a full-stack developer (JavaScript/TypeScript, React, Vue, Node...)
+
+🌱 In my free time, I learn the Go programming language, travel, learn languages, and play volleyball
   
 
 <!-- 🌟 Projects -->
