@@ -2,9 +2,9 @@
 
 🏠 I'm a Prague-based developer, but I enjoy the flexibility of working from anywhere
 
-🛠️ Currently working at FPT Czech as a full-stack developer (JavaScript/TypeScript, React, Vue, Node...)
+🛠️ Currently working at FPT Czech as a software developer (JavaScript/TypeScript, React, Vue, Node...)
 
-🌱 In my free time, I learn the Go programming language, travel, learn languages, and play volleyball
+🌱 In my free time, I expand my expertise, esp. in backend development, travel, learn languages, and play volleyball
   
 
 <!-- 🌟 Projects -->
