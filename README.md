@@ -28,21 +28,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-
-<!-- 🌟 Projects -->
-
 </br>
 
-<table align="left"><tr><td valign="center" width="50%">
-<div align="center"> 
-  <img src="https://media1.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=ecf05e478cslzqr789liqpjm7k9jzvf2o988ejzlpw8w715u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</div>
-</td><td valign="center" width="50%">
-<div align="center">  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&layout=compact)
-</div>
-</td></tr></table>  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&layout=compact)
 
 
