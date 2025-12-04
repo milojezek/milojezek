@@ -4,7 +4,7 @@
 
 - 🛠️ Currently at FPT Czech - working mainly on full-stack TypeScript applications
 - ⚙️ Backend is the area where I feel best and where I direct my efforts and growth
-- 🎨 At the same time, I like simple, user-friendly interfaces - UX matters to me
+- 🎨 At the same time, I like simple, user-friendly interfaces and good UX
 - 🌍 Enjoy travelling, learning languages, cooking, and playing volleyball
 
 ## Current Tech Stack
@@ -28,8 +28,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milojezek&layout=compact)
 
 
